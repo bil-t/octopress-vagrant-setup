@@ -27,3 +27,5 @@ rbenv rehash
 bundle install
 #install default theme
 rake install
+#install heroku
+gem install heroku
