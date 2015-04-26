@@ -29,3 +29,5 @@ bundle install
 rake install
 #install heroku
 gem install heroku
+rbenv rehash
+
